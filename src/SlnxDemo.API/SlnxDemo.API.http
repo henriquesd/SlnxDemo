@@ -1,0 +1,6 @@
+@SlnxDemo.API_HostAddress = http://localhost:5169
+
+GET {{SlnxDemo.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
