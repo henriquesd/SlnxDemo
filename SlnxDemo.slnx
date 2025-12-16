@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SlnxDemo.API/SlnxDemo.API.csproj" />
+    <Project Path="src/SlnxDemo.Domain/SlnxDemo.Domain.csproj" />
+    <Project Path="src/SlnxDemo.Infrastructure/SlnxDemo.Infrastructure.csproj" />
+  </Folder>
+</Solution>
